@@ -44,7 +44,7 @@ void main(){
 	
 	output = (h/3)*(y[0] + y[n] + 4*q + 2*e);
 	printf("\nThe value of the charge is %f milli Coulomb.\t", output);
-	
+	#
 	
 	
 }
